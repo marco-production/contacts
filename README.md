@@ -1,4 +1,4 @@
-# contacts-vue
+# Contacts
 
 ## Project setup
 ```
